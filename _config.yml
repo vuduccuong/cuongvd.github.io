@@ -1,1 +1,4 @@
 theme: jekyll-theme-time-machine
+deploy:
+    type: git
+    repo: https://github.com/vuduccuong/cuongvd.github.io.git
